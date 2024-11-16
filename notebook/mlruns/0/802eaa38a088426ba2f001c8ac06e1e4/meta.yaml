@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ec2-user/FinanceRAG/notebook/mlruns/0/802eaa38a088426ba2f001c8ac06e1e4/artifacts
+end_time: 1731144652212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802eaa38a088426ba2f001c8ac06e1e4
+run_name: checkpoints/model
+run_uuid: 802eaa38a088426ba2f001c8ac06e1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731142617308
+status: 3
+tags: []
+user_id: ec2-user
